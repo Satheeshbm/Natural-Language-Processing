@@ -16,11 +16,11 @@ To further understand the common words being used in such news articles - word c
 
 ### BITCOIN WORD CLOUD
 
-![Bicoin Word Cloud](Starter_code/BC.png)
+![Bicoin Word Cloud](Images/BC.png)
 
 ### ETHEREUM WORD CLOUD
 
-![Ethereum Word Cloud](Starter_code/ET.png)
+![Ethereum Word Cloud](Images/ET.png)
 
 
 The Named Entity Recognition model was used on the articles in both the cryptos. 
